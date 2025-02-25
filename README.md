@@ -1,2 +1,2 @@
-# Facial_recongnitions_fer2013
+# Facial_Recongnitions_fer2013
 Facial Recognition
